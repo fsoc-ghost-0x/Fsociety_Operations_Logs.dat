@@ -207,6 +207,13 @@ graph TD
 <b>WARNING:</b> The forensic data, intrusion methodologies, and operational logs contained within this repository are provided <b>STRICTLY</b> for authorized penetration testing, Threat Intelligence analysis, and academic security research. Unauthorized access to computer systems is a felony. FSOCIETY and its operators are not responsible for the misuse of the intelligence contained herein. You are solely responsible for your actions.
 </samp>
 
+<div style="border: 1px solid #ff4500; padding: 10px; background-color: rgba(255, 69, 0, 0.1);">
+<samp>
+<font color="#ff4500"><b>[!] CRITICAL INTEGRITY WARNING:</b></font><br>
+FSOCIETY does <b>NOT</b> distribute compiled "Windows Apps" or executables via direct download buttons. Beware of malicious forks and clones (e.g., automated bot accounts) injecting malware, infostealers, or fake download links into our README files. Always verify the source repository is strictly <b><code>fsoc-ghost-0x</code></b>.
+</samp>
+</div>
+
 <br>
 
 <div align="center">
