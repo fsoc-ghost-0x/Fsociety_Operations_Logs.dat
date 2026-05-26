@@ -164,7 +164,11 @@ Fsociety_Operations_Logs.dat/
     ├── Forensics/                      # Artifact dissection & volatile memory analysis
     ├── Reverse_Engineering/            # Binary unpacking & code deobfuscation
     ├── Pwn_&_Binary_Exploitation/      # Buffer Overflows, ROP, memory corruption
-    └── Hardware_&_Web_Challenges/      # Targeted micro-operations and logic abuse
+    ├── Hardware_&_Web_Challenges/      # Targeted micro-operations and logic abuse
+    ├── Hacking_ICS_&_SCADA/            # Industrial control systems & PLC subversion
+    ├── Env_Mobile/                     # iOS/Android APK analysis & Frida dynamic instrumentation
+    ├── Env_Block_&_Crypto/             # Smart contract auditing & cryptographic flaw exploitation
+    └── Env_AI_&_ML/                    # Adversarial AI, model inversion & data poisoning
 ```
 
 <br>
