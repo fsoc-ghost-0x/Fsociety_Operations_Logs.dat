@@ -125,25 +125,46 @@ Designed and maintained by the FSOCIETY Red Team, this project is the forensic a
 
 ```text
 Fsociety_Operations_Logs.dat/
-├── 01_REAL_WORLD_INTRUSIONS/           # Campaigns executed against real enterprise networks
+├── 01_REAL_WORLD_INTRUSIONS/           # Full Lifecycle Campaigns against real enterprise networks
 │   └── OP_[NAME]/                      # (e.g., OP_PINGPONG)
-│       ├── Reports/                    # Exec & Tech narratives by VERITAS
-│       ├── Raw_Telemetry/              # Extracted logs, traffic, AD dumps
+│       ├── Reports/                    # Executive & Technical narratives (Agent VERITAS)
+│       ├── Raw_Telemetry/              # AD Dumps, terminal logs, PCAPs
 │       └── Evidence_&_Media/           # Full kill-chain video recordings & screenshots
 │
-├── 02_HTB_CTF_OPERATIONS/              # [FSOCIETY_WRITEUPS]
-│   └── Machine_[NAME]/                 # Applying APT rigour to CTF environments
-│       ├── Reports/                    # Step-by-step path to Domain Total Domain
+├── 02_HTB_CTF_OPERATIONS/              # [FSOCIETY_WRITEUPS] Applying APT rigour to CTF environments
+│   └── Machine_[NAME]/                 # Surgical path to Domain Total Domain
+│       ├── Reports/                    # Narrative from Zero to Admin
 │       └── Evidence_&_Media/           # Scripts, PoCs, and exploit terminal logs
 │
-├── 03_OFFENSIVE_THREAT_INTEL/          # [HTB_SHERLOCKS] & Intel Analysis
+├── 03_OFFENSIVE_THREAT_INTEL/          # The attacker's view on defensive telemetry
 │   ├── Malware_Analysis/               # Dissecting adversary tools
-│   ├── Threat_Intelligence/            # The attacker's view on defensive telemetry
-│   └── Challenges_Offensive_Res/       # Pwn, ICS, Web, AI-ML Challenge resolutions
+│   └── Threat_Intelligence/            # Counter-Intel Ops & Honeypot takedowns (e.g., OP_PHANTOM_HUNTER)
 │
 ├── 04_VULN_RESEARCH_&_ZERO_DAY_LAB/    # Independent research and low-level analysis
+│   ├── CVE_Research/                   # Deep analysis and weaponization of documented flaws
+│   └── Zero_Day_Forge/                 # Internal logical/binary flaw discovery
 │
-└── 05_TACTICAL_DOCTRINE_&_PLAYBOOKS/   # Standard Operating Procedures & MITRE mappings
+├── 05_TACTICAL_DOCTRINE_&_PLAYBOOKS/   # Standard Operating Procedures (SOPs) & MITRE mappings
+│
+├── 06_INFRASTRUCTURE_&_C2_LOGISTICS/   # Domain Fronting, C2 Servers, Proxychains, Redirectors
+│
+├── 07_HUMINT_&_TARGET_PROFILING/       # Social Engineering, Trust Mapping & C-Level OSINT dossiers
+│
+├── 08_OPSEC_POST_MORTEM_&_FAILURES/    # War Room: Analyzing failure for operational perfection
+│
+├── 09_RESOURCE_&_CRYPTO_LOGISTICS/     # Financial tracking, Bitcoin/Monero Mixers, Offshore routing
+│
+├── 10_STRATEGIC_COMMAND_&_INTERNAL_LOGISTICS/ # [MASTER COMMAND NODE]
+│   ├── Operative_Daily_Routines/       # Team health, OPSEC checklists, and operational rhythm
+│   ├── AI_Agent_Sync_&_Directives/     # Instruction sets for NEXUS (PROXY, VERITAS, FENRIR, ELLIOT)
+│   ├── Tactical_Asset_Logistics/       # Burned IPs, active domains, and infrastructure rotation
+│   └── Operational_Roadmap_V5/         # Multi-year Project ARCHON milestones & target pipelines
+│
+└── 11_HTB_CHALLENGES_OPERATIONS/       # Specialized tactical challenge resolutions
+    ├── Forensics/                      # Artifact dissection & volatile memory analysis
+    ├── Reverse_Engineering/            # Binary unpacking & code deobfuscation
+    ├── Pwn_&_Binary_Exploitation/      # Buffer Overflows, ROP, memory corruption
+    └── Hardware_&_Web_Challenges/      # Targeted micro-operations and logic abuse
 ```
 
 <br>
