@@ -28,6 +28,13 @@
 <img src="https://img.shields.io/badge/Framework-MITRE_ATT&CK-black?style=for-the-badge&logo=mitre" alt="MITRE"/>
 <img src="https://img.shields.io/badge/Kill_Chain-5_Phases-00adef?style=for-the-badge&logo=target" alt="Kill Chain"/>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Threat_Actor-Advanced_Persistent_Threat_(APT)-660000?style=for-the-badge&logo=Arch-Linux&logoColor=black" alt="APT Verification"/>
+  <br>
+  <samp><b>[ TACTICAL TELEMETRY: <font color="#00ADEF">APT CLASSIFICATION</font> OFFICIALLY VERIFIED & ACTIVE ]</b></samp>
+</div>
+<br>
+
 </div>
 
 <br>
