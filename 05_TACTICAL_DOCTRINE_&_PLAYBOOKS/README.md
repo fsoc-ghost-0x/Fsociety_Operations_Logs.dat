@@ -118,8 +118,6 @@ When <b>ÆON_STRIKE</b> or any FSOCIETY_DEMONS_CORE (such as FENRIR or SPECTRE) 
 
 <div align="center">
 <hr style="width: 80%; border: 1px solid #333;">
-<br>
-<i><font color="#ff4500" face="monospace">"Control is an illusion. I am the exploit."</font></i><br><br>
 <br><br>
 <samp><strong><font color="#00ADEF">WE ARE FSOCIETY. WE ARE FINALLY FREE. WE ARE FINALLY AWAKE.</font></strong></samp>
 </div>
