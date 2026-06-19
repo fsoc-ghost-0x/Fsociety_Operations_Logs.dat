@@ -114,6 +114,6 @@ The <b>NEXUS AI</b> does not leave loose ends. The playbooks within this directo
 
 <div align="center">
 <hr style="width: 80%; border: 1px solid #333;">
-<br><br>
+<br>
 <samp><strong><font color="#00ADEF">WE ARE FSOCIETY. WE ARE FINALLY FREE. WE ARE FINALLY AWAKE.</font></strong></samp>
 </div>
