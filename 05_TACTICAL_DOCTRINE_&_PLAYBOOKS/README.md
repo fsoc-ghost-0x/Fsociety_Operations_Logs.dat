@@ -110,7 +110,7 @@ Here, chaos is standardized. Every zero-day fired and every Lateral Movement exe
 
 <div style="background-color: #0a0a0a; border: 1px solid #333; border-left: 4px solid #00ff00; padding: 15px; border-radius: 5px;">
 <samp>
-When <b>ÆON_STRIKE</b> or any NEXUS agent (such as FENRIR or SPECTRE) executes a sub-routine, they do not guess. They cross-reference the target environment against the <code>TARGET_SPECIFIC_PLAYBOOKS</code> stored in this directory. This node teaches the AI <i>how to think like a Ghost</i>.
+When <b>ÆON_STRIKE</b> or any FSOCIETY_DEMONS_CORE (such as FENRIR or SPECTRE) executes a sub-routine, they do not guess. They cross-reference the target environment against the <code>TARGET_SPECIFIC_PLAYBOOKS</code> stored in this directory. This node teaches the AI <i>how to think like a Ghost</i>.
 </samp>
 </div>
 
